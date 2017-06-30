@@ -4,9 +4,10 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE: Mouse Mover
-PURPOSE OF PROJECT: Provide an alternate way to move a mouse
+PROJECT TITLE:  Bluetooth Locker
+PURPOSE OF PROJECT: An easy way to lock your computer with your phone
 VERSION or DATE: 1.0
-HOW TO START THIS PROJECT: download the jar file or the source code and modify it
+HOW TO START THIS PROJECT: Download zip or source code
 AUTHORS: Austin Henley
-USER INSTRUCTIONS: Use the WASD keys to move the mouse
+USER INSTRUCTIONS: Enter part of your phone's bluetooth name to connect to it, download the app on an Android phone
+either push button on app to lock or walk away from computer.
